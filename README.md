@@ -1,4 +1,4 @@
-# Atividades-_Java
+# Atividades-_-Java
 
 ### 1º Atividade/desafio:
  - Alura: Conta Bancária Virtual.
