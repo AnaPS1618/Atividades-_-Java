@@ -16,12 +16,12 @@
   
 ### 2º Atividade/desafio:
 - Alura: Aplicação de Audio;
-Utilização de atributos, métodos, herança, encapsulamento e polimorfismo;
-<br />
-.. Criação de um Main - Arquivo Princial de entrada;
+  Utilização de atributos, métodos, herança, encapsulamento e polimorfismo;
   <br />
-.. Criação de superclasse Audio para implementar herança;
-  <br />
-.. Criação das subclasses Musica e Podcasts.
-  <br />
-.. Encapsulamento de atributos e chamadas de métodos;
+  .. Criação de um Main - Arquivo Princial de entrada;
+    <br />
+  .. Criação de superclasse Audio para implementar herança;
+    <br />
+  .. Criação das subclasses Musica e Podcasts.
+    <br />
+  .. Encapsulamento de atributos e chamadas de métodos;
